@@ -2,7 +2,7 @@
 import { useState, useEffect, useRef } from "react";
 import Fuse from "fuse.js";
 import { useRouter } from "next/navigation";
-import { Search as SearchIcon, X } from "lucide-react";
+import { Search as SearchIcon, X, FileText } from "lucide-react";
 
 export default function Search({ lang, dictionary, searchData }: { lang: string, dictionary: any, searchData?: any[] }) {
   const [query, setQuery] = useState("");
