@@ -14,7 +14,7 @@ export default function LanguageSwitcher() {
 
   return (
     <div data-testid="language-switcher" className="flex gap-2">
-      {['en', 'es', 'fr', 'de'].map((lang) => (
+      {['en', 'es', 'fr', 'de', 'ja'].map((lang) => (
         <button
           key={lang}
           onClick={() => changeLanguage(lang)}
