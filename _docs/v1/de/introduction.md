@@ -43,7 +43,3 @@ Diese Firmen haben Dokumentation in über 30 Sprachen. Sie nutzen **i18n**, dami
 - **Internationalisierung**: Inhalt verfügbar in Englisch, Spanisch, Französisch, Deutsch, Japanisch.
 - **Volltextsuche**: Angetrieben von Fuse.js.
 - **API-Referenz**: Swagger UI Integration.
-
-## Loslegen
-
-Schauen Sie sich die [Erste Schritte](/de/docs/v1/getting-started) Anleitung an.

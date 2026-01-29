@@ -43,7 +43,3 @@ Ces entreprises ont de la documentation dans plus de 30 langues. Elles utilisent
 - **Internationalisation** : Contenu disponible en anglais, espagnol, français, allemand, japonais.
 - **Recherche plein texte** : Propulsée par Fuse.js.
 - **Référence API** : Intégration Swagger UI.
-
-## Commencer
-
-Consultez le guide de [Démarrage](/fr/docs/v1/getting-started).

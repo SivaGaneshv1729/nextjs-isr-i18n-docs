@@ -43,7 +43,3 @@ These companies have documentation in 30+ languages. They use **i18n** so that `
 - **Internationalization**: Content available in English, Spanish, French, German.
 - **Full-Text Search**: Powered by Fuse.js for fuzzy finding.
 - **API Reference**: Swagger UI integration for OpenAPI specs.
-
-## Getting Started
-
-Check out the [Getting Started](/en/docs/v1/getting-started) guide to run this locally.

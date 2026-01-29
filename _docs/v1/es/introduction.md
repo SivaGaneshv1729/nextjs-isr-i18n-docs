@@ -43,7 +43,3 @@ Estas empresas tienen documentación en más de 30 idiomas. Usan **i18n** para q
 - **Internacionalización**: Contenido disponible en inglés, español, francés, alemán.
 - **Búsqueda de Texto Completo**: Impulsado por Fuse.js.
 - **Referencia de API**: Integración de Swagger UI.
-
-## Comenzando
-
-Consulta la guía de [Comenzando](/es/docs/v1/getting-started) para ejecutar esto localmente.
